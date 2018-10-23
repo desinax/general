@@ -1,6 +1,6 @@
 {
   "name": "@desinax/general",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Desinax LESS/SASS module for general reusable style elements.",
   "main": "null",
   "scripts": {
